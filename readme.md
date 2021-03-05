@@ -3,7 +3,7 @@ Change Theme backpack to them stoke (https://themesbrand.com/skote/layouts/ui-no
 ##Installation
 Via Composer
 ``` bash
-$ composer require themebackpack/stoke
+$ composer require viralsoft/bptheme-stoke
 ```
 
 ## Usage
