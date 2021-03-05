@@ -1,0 +1,27 @@
+{
+    "name": "viralsoft/bptheme-stoke",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nguyễn Duy Long",
+            "email": "longnd@viralsoft.vn"
+        }
+    ],
+    "description": "Theme stoke for backpack",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ThemeBackpack\\Stoke\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "files": ["src/helpers.php"]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ViralSoft\\BPThemeStoke\\StokeServiceProvider"
+            ]
+        }
+    }
+}
