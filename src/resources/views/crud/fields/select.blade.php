@@ -46,4 +46,4 @@
     <p class="help-block">{!! $field['hint'] !!}</p>
 @endif
 
-@include('stoke-crud::fields.inc.wrapper_end')a
+@include('stoke-crud::fields.inc.wrapper_end')
